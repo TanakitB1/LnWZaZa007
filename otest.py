@@ -15,4 +15,4 @@ image_path = r"C:\Users\lovew\OneDrive\รูปภาพ\slip-test\retest 1.png
 if check_qrcode(image_path):
     print("เจอ QR Code!")
 else:
-    print("ไม่พบ QR Code")
+    print("ไม่พบ QR sadasdasdasdasdasdasdCode")
